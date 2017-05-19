@@ -6,3 +6,17 @@ font-family: 'Raleway', sans-serif;
 */
 
 /* Escribe tu código acá debajo */
+
+.titulo{
+	background-color: #F78E69;
+	background-size: 100%;
+	color:white;
+	font-family: 'Raleway';
+	text-align: right;
+	padding: 20px;
+}
+
+#mayor{
+	font-size: 50px;
+	margin-bottom: 10px;
+}
